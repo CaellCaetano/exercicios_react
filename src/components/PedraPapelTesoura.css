@@ -1,0 +1,38 @@
+.container {
+  background: #fff;
+  padding: 24px;
+  border-radius: 6px;
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.opcoes {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin: 16px 0;
+}
+
+button {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 4px;
+  background: #4a6cf7;
+  color: #fff;
+  cursor: pointer;
+}
+
+.resultado {
+  font-weight: bold;
+  margin: 14px 0;
+}
+
+.placar {
+  display: flex;
+  justify-content: space-between;
+  background: #f0f0f0;
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 14px;
+}
