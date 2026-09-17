@@ -1,0 +1,35 @@
+.container {
+  background: #fff;
+  padding: 24px;
+  border-radius: 6px;
+  width: 100%;
+  max-width: 360px;
+  text-align: center;
+}
+
+.inputs {
+  display: flex;
+  gap: 10px;
+  margin: 14px 0;
+}
+
+.inputs input {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 4px;
+  background: #4a6cf7;
+  color: #fff;
+  cursor: pointer;
+}
+
+.tentativas {
+  color: #555;
+  font-size: 14px;
+}
